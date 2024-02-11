@@ -15,8 +15,7 @@ This website was built using:
 
 - Modern layout with custom colors/styles/backgrounds
 - Responsive design
-- Animated navbar with style changes on click
-- Form & input styles
+- Image Gallery with 12 grid system
 - Testimonials
 
 ## Usage
